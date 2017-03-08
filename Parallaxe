@@ -1,2 +1,27 @@
 Compréhension du mouvement du Système Soleil, Terre, Mars
 Compréhension de la méthode de détection (projection sur le ciel)
+
+Le Soleil est au centre du système solaire.
+En effet, le centre de masse Soleil-Terre-Mars est proche du Soleil (masse T et M négligeables par rapport à celle du Soleil).
+Ainsi le Soleil tourne autour du cdm, et donc semble tourner autour de lui même.
+Et la Terre et Mars orbitent autour de ce dernier sur une ellipse presque circulaire.
+Cela est du à l'excentricité de leur orbite, proche de 0. Leur vitesse radiale est globalement constante.(explication?)
+Cependant, celle de la Terre est plus rapide.(explication?)
+C'est cette différence qui nous permet de visualiser le mouvement rétrograde de Mars par rapport à la Terre (kinésthésie).
+
+Explication Suzanne.
+
+Ce mouvement a été observé grâce à la méthode de la parallaxe.
+En astronomie, la parallaxe est l’angle sous lequel on pourrait voir une longueur connue, depuis un astre
+quelconque. On parle de parallaxe diurne pour les objets du Système solaire.
+Aini, pour la parallaxe de Mars, on cherche l'angle sous lequel on voit, depuis ce dernier, le rayon terrestre.
+
+(Du fait de la révolution de la Terre autour du Soleil, la position de Mars par rapport à un fond d'étoiles lointaines (considéré comme fixe), varie legèrement.
+En mesurant ce petit déplacement angulaire, on peut peut calculer la distance à Mars, et donc en déduire sa trajectoire.
+(parallaxe annuelle ???))
+
+schéma
+
+Comment calculer cette parallaxe ?
+Erreur parallaxe qui crée un mouvement rétrograde ?
+Cette méthode a donné une nouvelle unité de distance : le parsec est la distance correspondant à une parallaxe d’une seconde.
