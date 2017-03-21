@@ -2,12 +2,13 @@ Compréhension du mouvement du Système Soleil, Terre, Mars
 Compréhension de la méthode de détection (projection sur le ciel)
 
 Le Soleil est au centre du système solaire.
-En effet, le centre de masse Soleil-Terre-Mars est proche du Soleil (masse T et M négligeables par rapport à celle du Soleil).
-Ainsi le Soleil tourne autour du cdm, et donc semble tourner autour de lui même.
+En effet, le centre de masse Soleil-Terre-Mars est proche du Soleil (masse de la Terre et de Mars sont  négligeables par rapport à celle du Soleil).
+Ainsi le Soleil tourne autour du centre de masse, et donc semble tourner autour de lui même.
 Et la Terre et Mars orbitent autour de ce dernier sur une ellipse presque circulaire.
-Cela est du à l'excentricité de leur orbite, proche de 0. Leur vitesse radiale est globalement constante.(explication?)
-Cependant, celle de la Terre est plus rapide.(explication?)
-C'est cette différence qui nous permet de visualiser le mouvement rétrograde de Mars par rapport à la Terre (kinésthésie).
+Cela est du à l'excentricité de leur orbite, proche de 0. Leur vitesse radiale est globalement constante.
+Cependant, celle de la Terre est plus rapide.  explication
+C'est cette différence qui nous permet de visualiser le mouvement rétrograde de Mars par rapport à la Terre (cf. kinésthésie).
+Durent cette kinestésie, nous avons pu constater qu'avec l'aide d'une corde, que si l'on essayer de projeter la position de Mars par rapport à la Terre,(donc que la code reste droite entre les deux planètes,) Mars faisait des allées et retours dans le cile de la Terre.  
 
 
 
@@ -21,6 +22,7 @@ En mesurant ce petit déplacement angulaire, on peut peut calculer la distance �
 
 
 
+Question que l'on se pose :
 
 Comment calculer cette parallaxe ?
 Erreur parallaxe qui crée un mouvement rétrograde ?
